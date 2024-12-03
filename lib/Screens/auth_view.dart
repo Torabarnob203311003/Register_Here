@@ -13,7 +13,7 @@ class AuthView extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.blueGrey,
       appBar: AppBar(
-        title: const Text('LogIn here',
+        title: const Text('Register here',
         style: TextStyle(
           fontWeight: FontWeight.w900
         ),
